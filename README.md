@@ -1,14 +1,12 @@
 ### 1. GENERAL DETAILS OF THE REQUEST
 |Need ID                   |Prueba                  |
 |------------------------- |------------------------|
-|Classification            |    |Need ID                   |Prueba                  |
-|------------------------- |------------------------|
 |Classification            |                        |
 |Requester                 |yyyyyyyyy               |
 |Requesting area           |zzzzzzzzzzz             |
 |Name of the requirement   |wwwwwwwwwww             |
 |Date of request           |May 08, 2024            |
-|Receiver                  |vvvvvvvvvvvvvv          |                    |
+|Receiver                  |vvvvvvvvvvvvvv          |                  
 |Requester                 |yyyyyyyyy               |
 |Requesting area           |zzzzzzzzzzz             |
 |Name of the requirement   |wwwwwwwwwww             |
