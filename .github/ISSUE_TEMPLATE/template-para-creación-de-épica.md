@@ -16,5 +16,5 @@ Criterios de aceptación:
 Áreas involucradas: 
 
 [Agregar historias de usuario correspondientes]
-[USER STORY] 
-[USER STORY]
+- [ ] [USER STORY] 
+- [ ] [USER STORY]
