@@ -7,22 +7,28 @@ assignees: ''
 
 ---
 
-#### **Descripción:**
+## **Descripción:**
 
-#### Análisis
-[SRS]
-[DRS]
+### Análisis
+- [ ] [SRS] + {Nombre de la tarea iniciando con verbo en infinitivo} 
+- [ ] [DRS] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
-#### Diseño
-[SDD]
-[MLD]
+### Diseño
+- [ ] [SDD] + {Nombre de la tarea iniciando con verbo en infinitivo} 
+- [ ] [MLD] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
-#### Desarrollo 
+### Desarrollo 
+- [ ] [TASK] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
-#### Pruebas 
-[UAT]
-[BUG]
+### Pruebas 
+- [ ] [UAT] + {Nombre de la tarea iniciando con verbo en infinitivo} 
+- [ ] [BUG] + {Nombre de la tarea iniciando con verbo en infinitivo} 
+
+### Liberación 
+- [ ] [XXX] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
 ### INCIDENCIAS 
+- [ ] [BUG] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
 ### ADICIONALES
+- [ ] [TASK] + {Nombre de la tarea iniciando con verbo en infinitivo}
