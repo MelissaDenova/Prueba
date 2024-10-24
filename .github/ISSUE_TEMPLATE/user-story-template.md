@@ -7,22 +7,22 @@ assignees: ''
 
 ---
 
-**Descripción:**
+#### **Descripción:**
 
-## Análisis
+#### Análisis
 [SRS]
 [DRS]
 
-## Diseño
+#### Diseño
 [SDD]
 [MLD]
 
-## Desarrollo 
+#### Desarrollo 
 
-## Pruebas 
+#### Pruebas 
 [UAT]
 [BUG]
 
-## INCIDENCIAS 
+### INCIDENCIAS 
 
-## ADICIONALES
+### ADICIONALES
