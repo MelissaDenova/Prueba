@@ -10,7 +10,7 @@ assignees: ''
 ## **Descripción:**
 
 ## 
-### Análisis
+### Requerimiento
 - [ ] [SRS] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 - [ ] [DRS] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
