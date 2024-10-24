@@ -7,22 +7,22 @@ assignees: ''
 
 ---
 
-## **Descripción:**
+## **Descripción:**  [Se requiere + {objetivo} para lograr {resultado}]
 
-## 
+## CICLO DE DESARROLLO
 ### Requerimiento
-- [ ] [SRS] + {Nombre de la tarea iniciando con verbo en infinitivo} 
-- [ ] [DRS] + {Nombre de la tarea iniciando con verbo en infinitivo} 
+- [ ] [TASK] [SRS] + {Nombre de la tarea iniciando con verbo en infinitivo} 
+- [ ] [TASK] [DRS] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
 ### Diseño
-- [ ] [SDD] + {Nombre de la tarea iniciando con verbo en infinitivo} 
-- [ ] [MLD] + {Nombre de la tarea iniciando con verbo en infinitivo} 
+- [ ] [TASK] [SDD] + {Nombre de la tarea iniciando con verbo en infinitivo} 
+- [ ] [TASK] [MLD] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
 ### Desarrollo 
 - [ ] [TASK] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
 ### Pruebas 
-- [ ] [UAT] + {Nombre de la tarea iniciando con verbo en infinitivo} 
+- [ ] [TASK] [UAT] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 - [ ] [BUG] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
 ### Liberación 
