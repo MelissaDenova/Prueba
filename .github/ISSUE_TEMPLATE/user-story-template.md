@@ -17,9 +17,11 @@ assignees: ''
 ### Diseño
 - [ ] [TASK] [SDD] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 - [ ] [TASK] [MLD] + {Nombre de la tarea iniciando con verbo en infinitivo} 
+- [ ] [TASK] [INCIDENCIA] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
 ### Desarrollo 
 - [ ] [TASK] + {Nombre de la tarea iniciando con verbo en infinitivo} 
+- [ ] [TASK] [INCIDENCIA] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
 ### Pruebas 
 - [ ] [TASK] [UAT] + {Nombre de la tarea iniciando con verbo en infinitivo} 
@@ -27,9 +29,6 @@ assignees: ''
 
 ### Liberación 
 - [ ] [XXX] + {Nombre de la tarea iniciando con verbo en infinitivo} 
-
-## INCIDENCIAS 
-- [ ] [BUG] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
 ## ADICIONALES
 - [ ] [TASK] + {Nombre de la tarea iniciando con verbo en infinitivo}
