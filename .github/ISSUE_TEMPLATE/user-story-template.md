@@ -11,24 +11,13 @@ assignees: ''
 
 ## CICLO DE DESARROLLO
 ### Requerimiento
-- [ ] [TASK] [SRS] + {Nombre de la tarea iniciando con verbo en infinitivo} 
-- [ ] [TASK] [DRS] + {Nombre de la tarea iniciando con verbo en infinitivo} 
+- [ ] [SRS | DRS] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
 ### Diseño
-- [ ] [TASK] [SDD] + {Nombre de la tarea iniciando con verbo en infinitivo} 
-- [ ] [TASK] [MLD] + {Nombre de la tarea iniciando con verbo en infinitivo} 
-- [ ] [TASK] [INCIDENCIA] + {Nombre de la tarea iniciando con verbo en infinitivo} 
+- [ ] [SDD | MLD] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
 ### Desarrollo 
 - [ ] [TASK] + {Nombre de la tarea iniciando con verbo en infinitivo} 
-- [ ] [TASK] [INCIDENCIA] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
 ### Pruebas 
-- [ ] [TASK] [UAT] + {Nombre de la tarea iniciando con verbo en infinitivo} 
-- [ ] [BUG] + {Nombre de la tarea iniciando con verbo en infinitivo} 
-
-### Liberación 
-- [ ] [XXX] + {Nombre de la tarea iniciando con verbo en infinitivo} 
-
-## ADICIONALES
-- [ ] [TASK] + {Nombre de la tarea iniciando con verbo en infinitivo}
+- [ ] [UAT | BUG] + {Nombre de la tarea iniciando con verbo en infinitivo}
