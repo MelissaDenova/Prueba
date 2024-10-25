@@ -19,4 +19,7 @@ assignees: ''
 - [ ] [TASK] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
 ### Pruebas 
-- [ ] [UAT | BUG] + {Nombre de la tarea iniciando con verbo en infinitivo}
+- [ ] [TASK | BUG] + {Nombre de la tarea iniciando con verbo en infinitivo}
+
+### Tareas adicionales 
+- [ ] [TASK] + {Nombre de la tarea iniciando con verbo en infinitivo}
