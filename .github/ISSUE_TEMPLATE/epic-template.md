@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-**Product Owner:** 
-**Descripción:** 
+**Product Owner:** @
+**Descripción:** {Describir objetivo de la épica y el resultado que se espera}
 
 **CARACTERÍSTICAS:** 
 **Nombre del producto:** 
@@ -16,5 +16,5 @@ assignees: ''
 **Áreas involucradas:** 
 
 [Agregar historias de usuario correspondientes]
-- [ ] [USER STORY 1] 
-- [ ] [USER STORY 2]
+- [ ] [USER STORY 1] + {Título comenzando con verbo en infinitivo}
+- [ ] [USER STORY 2] + {Título comenzando con verbo en infinitivo}
