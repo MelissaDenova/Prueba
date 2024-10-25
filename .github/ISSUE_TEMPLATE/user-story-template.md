@@ -20,6 +20,3 @@ assignees: ''
 
 ### Pruebas 
 - [ ] [TASK | BUG] + {Nombre de la tarea iniciando con verbo en infinitivo}
-
-### Tareas adicionales 
-- [ ] [TASK] + {Nombre de la tarea iniciando con verbo en infinitivo}
