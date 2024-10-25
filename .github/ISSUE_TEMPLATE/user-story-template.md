@@ -9,7 +9,6 @@ assignees: ''
 
 ## **Descripción:**  [Se requiere + {objetivo} para lograr {resultado}]
 
-## CICLO DE DESARROLLO
 ### Requerimiento
 - [ ] [SRS | DRS] + {Nombre de la tarea iniciando con verbo en infinitivo} 
 
